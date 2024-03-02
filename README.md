@@ -1,13 +1,50 @@
-<h1 align="center">Hi 👋, I'm Jamal. I'm a master's student in Leibniz University of Hannover.</h1>
-<h3 align="center">I have a bachelors in Aerospace Engineering. The focus of my masters is in computational sciences.</h3>
+# 👋 Hi, I'm Jamal Bhatti
+
+👨‍💻 I'm a passionate Computational Engineer with a Master's in Computational Methods in Engineering from Leibniz Universität Hannover. I specialize in blending advanced computational techniques with practical engineering solutions, focusing on machine learning, scientific computing, and computational mechanics.
+
+## 🚀 About Me
+
+🔍 I've dedicated my academic and professional journey to solving complex engineering challenges through innovative computational methods. My work ranges from developing sophisticated algorithms to enhancing the capabilities of existing simulation and analysis tools.
+
+🌐 You can find me on LinkedIn: [Jamal Bhatti](https://www.linkedin.com/in/jamal-bhatti-5a27b876)
+
+## 🛠 Skills
+
+- **Programming Languages:** Python 🐍, C++ 💻, MATLAB 🔢, C# 🔧
+- **Technologies:** Docker 🐳, Kubernetes 🎡, AWS ☁️, PySpark 🌟
+- **Specialties:** Finite Element Analysis (FEA), Computational Fluid Dynamics (CFD), Machine Learning 🧠, Phase-Field Modeling 📐
+
+## 🎯 Projects
+
+- **Convex Polygon Operations (2024):** Boolean operations using the standard template library in C++ and Python. `C++`, `Python`
+- **Plugin for Abaqus (2023):** Developed a plugin to create periodic boundary conditions on RVE. `Python`
+- **Material Model Parameter Calibration Tool (2023):** Calibration tool for custom hyper-elastic material models. `MATLAB`
+- **Cloud Native CI/CD Pipeline (2022):** Integration and deployment pipeline using Docker, PostgreSQL, and Kubernetes. `Docker`, `PostgreSQL`, `Kubernetes`
+- **Data Lakes with Spark (2022):** ETL pipeline for data processing and storage in AWS S3. `Python`, `PySpark`, `AWS`
+- **Physics-Informed Neural Network for Phase Field Problem (2022):** Integrating physics-based constraints in machine learning models. `Python`, `C++`
+
+## 📚 I'm currently learning
+
+- Advancing my understanding of quantum computing algorithms and their applications in engineering.
+- Exploring next-generation optimization techniques in aerospace design.
+
+## 🤝 How to reach me:
+
+Feel free to reach out for collaborations or just a chat:
+
+- 📧 Email: jamalahmed68@gmail.com
+- 📫 LinkedIn: [Jamal Bhatti](https://www.linkedin.com/in/jamal-bhatti-5a27b876)
+- 🐱 GitHub: [@jamal-dev](https://github.com/jamal-dev)
+
+Thank you for visiting my profile! Let's connect and make something awesome together.
+
+![Jamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamal-dev&show_icons=true&theme=radical)
+
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamal-dev" alt="jamal-dev" /></a> </p>
 
-- 🔭 I’m currently working on **physics informed neural networks for phase field problem.**
-
-- 👯 I’m looking to collaborate on **neural networks, robotics, SLAM, and numerics.**
-
-- 📫 How to reach me **jamalahmed68@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
