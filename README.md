@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jamal Bhatti
+# 👋 Hi, I'm Jamal
 
 👨‍💻 I'm a passionate Computational Engineer with a Master's in Computational Methods in Engineering from Leibniz Universität Hannover. I specialize in blending advanced computational techniques with practical engineering solutions, focusing on machine learning, scientific computing, and computational mechanics.
 
@@ -23,10 +23,7 @@
 - **Data Lakes with Spark (2022):** ETL pipeline for data processing and storage in AWS S3. `Python`, `PySpark`, `AWS`
 - **Physics-Informed Neural Network for Phase Field Problem (2022):** Integrating physics-based constraints in machine learning models. `Python`, `C++`
 
-## 📚 I'm currently learning
 
-- Advancing my understanding of quantum computing algorithms and their applications in engineering.
-- Exploring next-generation optimization techniques in aerospace design.
 
 ## 🤝 How to reach me:
 
